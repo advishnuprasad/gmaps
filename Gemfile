@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 1.2'
 
 gem 'geocoder'
 gem 'gmaps4rails'
+gem 'google_places'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
